@@ -43,7 +43,7 @@ DATEDIFF :
 Returns the number of interval boundaries between two dates.
 Syntax :
 ## DATEDIFF(<Date1>, <Date2>, <Interval>)
-Example :
+Examplee :
 Engagment Days = DATEDIFF('Clients - Banking'[Joined Bank],TODAY(), DAY )
 # KPI’S: 
 In which followings KPIS are present :
