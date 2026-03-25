@@ -1,4 +1,4 @@
-# Banking-Risk-Analysis
+# Banking-Risk Analysis
 The Banking Risk Analytics Dashboard, developed using Microsoft Power BI, analyzes banking data to support better lending decisions and reduce financial risk. It includes KPIs like total clients, loans, deposits, and fees, helping banks understand customer behavior and make informed loan approval decisions.
 # Problem Statement
 Develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
@@ -17,7 +17,7 @@ Creating bins for the Estimated Income < 100000 as low and <300000 as Mid with t
 <img width="848" height="611" alt="image" src="https://github.com/user-attachments/assets/bd725921-deb7-42f4-8746-4a2ff463026d" />
 # Calculated Functions – 
 ## Sum : 
-The power bi sum function will add all the numbers in a column and the column contains numbers to sum. It returns a decimal number.
+The power bi sum function will add all the numbers in a column and the column contains numbers to sum. It returns decimal number.
 Syntax :
 Sum= SUM(<column>)
 Example:
