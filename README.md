@@ -20,7 +20,7 @@ Creating bins for the Estimated Income < 100000 as low and <300000 as Mid with t
 The power bi sum function will add all the numbers in a column and the column contains numbers to sum. It returns decimal number.
 Syntax :
 Sum= SUM(<column>)
-Example:
+Example :
 Bank Deposit = 
 SUM('Clients - Banking'[Bank Deposits] )
 ## DistinctCount :
