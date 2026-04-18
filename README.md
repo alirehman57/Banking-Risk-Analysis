@@ -24,7 +24,7 @@ Example :
 Bank Deposit = 
 SUM('Clients - Banking'[Bank Deposits] )
 ## DistinctCount :
-Counts the number of distinct values in a column
+Counts the number of distinct values inn a column
 Syntax:
 DISTINCTCOUNT(<column>)
 Example :
