@@ -17,7 +17,7 @@ Creating bins for the Estimated Income < 100000 as low and <300000 as Mid with t
 <img width="848" height="611" alt="image" src="https://github.com/user-attachments/assets/bd725921-deb7-42f4-8746-4a2ff463026d" />
 # Calculated Functions  – 
 ## Sum : 
-The power bi sum function will add all the numbers in a column and the column contains numbers to sum. It returns decimal number.
+The power BI sum function will add all the numbers in a column and the column contains numbers to sum. It returns decimal number.
 Syntax :
 Sum= SUM(<column>)
 Example :
