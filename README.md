@@ -21,7 +21,7 @@ The power BI sum function will add all the numbers in a column and the column co
 Syntax :
 Sum= SUM(<column>)
 Example :
-Bank Deposit = 
+Bank Deposit  = 
 SUM('Clients - Banking'[Bank Deposits] )
 ## DistinctCount :
 Counts the number of distinct values inn a column
