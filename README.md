@@ -22,7 +22,7 @@ Syntax :
 Sum= SUM(<column>)
 Example :
 Bank Deposit  = 
-SUM('Clients - Banking'[Bank Deposits] )
+SUM('Clients  - Banking'[Bank Deposits] )
 ## DistinctCount :
 Counts the number of distinct values inn a column
 Syntax:
