@@ -15,7 +15,7 @@ Creating a new column Engagment Days in Client-Banking taable how many days the 
 <img width="846" height="504" alt="image" src="https://github.com/user-attachments/assets/f21d9970-86d1-490a-b7b2-3053e2ef5066" />
 Creating bins for the Estimated Income < 100000 as low and <300000 as Mid with the column named as Income Band in Clients-Banking table.
 <img width="848" height="611" alt="image" src="https://github.com/user-attachments/assets/bd725921-deb7-42f4-8746-4a2ff463026d" />
-# Calculated Functions  – 
+# Calculated  functions  – 
 ## Sum : 
 The power BI sum function will add all the numbers in a column and the column contains numbers to sum. It returns decimal number.
 Syntax :
